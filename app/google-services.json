@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689168698249",
+    "firebase_url": "https://mj-sales.firebaseio.com",
+    "project_id": "mj-sales",
+    "storage_bucket": "mj-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689168698249:android:6b88992f560471c7d82f58",
+        "android_client_info": {
+          "package_name": "merak.jaya.abadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689168698249-6j7abn8e27om98htnm7iumhu7rn7tjcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "merak.jaya.abadi",
+            "certificate_hash": "70a02e5d3dda9c6c2d73b847e75b7c2327755872"
+          }
+        },
+        {
+          "client_id": "689168698249-c0a8vlm8r55ls2cmp5rs62f91apc11rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtEj2yhLsVaAQd2E0NsBduT5g2tNNE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689168698249-c0a8vlm8r55ls2cmp5rs62f91apc11rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

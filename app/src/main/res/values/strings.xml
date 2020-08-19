@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MJ Sales</string>
+    <string name="logo_merak_jaya_abadi">Logo Merak Jaya Abadi</string>
+    <string name="mja_judul">Merak Jaya Abadi</string>
+    <string name="mja_content">Sales Dan Shipping App</string>
+    <string name="nama_pt">PT. Merak Jaya Abadi</string>
+    <string name="help">help</string>
+    <string name="ambil_device_code">Ambil Code Device</string>
+    <string name="aktifkan_device">AKTIFKAN</string>
+    <string name="device_code">Device Code</string>
+    <string name="kode_aktivasi">Kode Aktivasi</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="atau">atau</string>
+    <string name="masuk">MASUK</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="isi_reset_password">Untuk setel ulang password, masukkan email terdaftar, klik tombol RESET PASSWORD dan ikuti petunjuk di email Anda.</string>
+    <string name="kembali_ke_halaman_login">Kembali ke Halaman Login</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="isi_data_diri">Isi Data Diri</string>
+    <string name="error_message">Error message</string>
+    <string name="nama_lengkap">Nama lengkap</string>
+    <string name="user_name">User Name</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="email_aktif">Email aktif</string>
+    <string name="masukkan_password">Masukkan password</string>
+    <string name="ulangi_password">ulangi password</string>
+    <string name="sudah_punya">Sudah Punya</string>
+    <string name="pilih_depo">Pilih Depo</string>
+</resources>
