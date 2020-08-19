@@ -15,10 +15,55 @@
       },
       "oauth_client": [
         {
+          "client_id": "689168698249-122i7fic4enpq0u0qr2v0fkmoq9l29sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "merak.jaya.abadi",
+            "certificate_hash": "4d3a2c6c4352f999204b1e9c74dc7b27bff9312a"
+          }
+        },
+        {
           "client_id": "689168698249-6j7abn8e27om98htnm7iumhu7rn7tjcl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "merak.jaya.abadi",
+            "certificate_hash": "70a02e5d3dda9c6c2d73b847e75b7c2327755872"
+          }
+        },
+        {
+          "client_id": "689168698249-c0a8vlm8r55ls2cmp5rs62f91apc11rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQtEj2yhLsVaAQd2E0NsBduT5g2tNNE60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689168698249-c0a8vlm8r55ls2cmp5rs62f91apc11rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689168698249:android:9963808bf32633f3d82f58",
+        "android_client_info": {
+          "package_name": "merak.jaya.abadi.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689168698249-tjkoo0abo5id9440vct8oo4etrshj1d9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "merak.jaya.abadi.admin",
             "certificate_hash": "70a02e5d3dda9c6c2d73b847e75b7c2327755872"
           }
         },
